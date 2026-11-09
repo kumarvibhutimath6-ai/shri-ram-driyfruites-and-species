@@ -1,2 +1,20 @@
-# Retail-Sales-Data-Analysis-Dashboard
-Retail Sales Data Exploration &amp; Analysis Dashboard built to analyze sales performance, customer trends, product insights, and key business KPIs using data analytics and visualization.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/5fbebaa8-7c91-4b7d-8ff6-c163b19ea6a1
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
